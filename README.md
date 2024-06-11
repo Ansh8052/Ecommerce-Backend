@@ -10,19 +10,8 @@
 ## Initial
 1. ```$ npm install```
 2. ```$ npm start```
-3. Credentials
 
-	- One user with User role,
-	# Default User credentials
-	**username** : Caleb.Erdman69
-	**password** : QpPCXqEiR8eGjOj
-
-	- One user with Admin role,
-	# Default Admin credentials
-	**username** : Virgil.Jacobi19
-	**password** : H97DmukSybXgJTz
-
-
+	
 ## How to run with Docker ? :
 - if you have docker file you can execute following command
 - build the image
